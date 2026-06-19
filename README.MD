@@ -1,5 +1,10 @@
 # 🌍 CarbonSME - Complete Carbon Monitoring System
 
+## Team Member
+-Sanjitha
+-Priyanka Salian
+-Bhoomika
+
 ## Quick Start
 
 ```bash
