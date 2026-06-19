@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+fastapi
+uvicorn
+websockets
+paho-mqtt
+scikit-learn
+python-dotenv
+reportlab
+opencv-python
+pillow
+
+scipy
+streamlit-option-menu
